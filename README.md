@@ -63,23 +63,4 @@ https://api.jsonserve.com/Uw5CrX
 4. `summary_screen.dart`: Shows a summary of the quiz results, including score, coins earned, and badge.
 5. `api_service.dart`: Handles API calls to fetch quiz data.
 
-## Technical Requirements Met
-
-- **Flutter Framework**: Built entirely using Flutter.
-- **Responsive Design**: The app adapts to various screen sizes and orientations.
-- **Clean Code**: Code is structured and well-documented for maintainability.
-
-## Bonus Points Implemented
-
-- **Clean Intuitive Design**: The app features a user-friendly and visually appealing design.
-- **Gamification**: Users earn coins and badges based on their performance, enhancing engagement.
-
-## Evaluation Criteria
-
-- **Accuracy of Data Integration**: The app accurately fetches and displays data from the provided API.
-- **UI Quality**: Clean and aesthetic user interface.
-- **Gamification**: Implementation of coin rewards and badges.
-- **User Experience**: Smooth navigation and interactivity.
-- **Code Quality**: Well-structured, readable, and maintainable code.
-- **Requirements Adherence**: Meets all specified requirements and guidelines.
 
