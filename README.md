@@ -39,16 +39,6 @@ Watch the app demo [here](https://drive.google.com/file/d/1wWoeMHJb4P_ASj5FwTb74
 
 Ensure you have Flutter installed on your machine. For Flutter installation instructions, visit [Flutter's official documentation](https://flutter.dev/docs/get-started/install).
 
-## API Integration
-
-This app fetches quiz data from a RESTful API. The API endpoint used in the app is:
-
-```
-https://api.jsonserve.com/Uw5CrX
-```
-
-## Code Overview
-
 ### Folder Structure
 
 - **main.dart**: Entry point of the app.
